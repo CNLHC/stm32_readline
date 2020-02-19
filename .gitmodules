@@ -1,0 +1,6 @@
+[submodule "device/cmsis-header-stm32"]
+	path = device/cmsis-header-stm32
+	url = git@github.com:modm-io/cmsis-header-stm32.git
+[submodule "device/CMSIS_5"]
+	path = device/CMSIS_5
+	url = git@github.com:ARM-software/CMSIS_5.git
